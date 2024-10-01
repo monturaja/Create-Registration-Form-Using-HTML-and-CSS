@@ -1,0 +1,107 @@
+body{
+    background-color: lightgrey;
+   
+}
+.main{
+   text-align: center;
+}
+.form{
+    border: 1px solid rgb(150, 133, 133);
+   
+    width: 400px;
+    margin: 0  auto;
+    background: white;
+    border-radius: 5px;
+    padding: 10px 0;
+    display: flex;
+    justify-content: center;
+}
+#fname{
+    text-align: center;
+    height: 30px;
+    border-radius: 30px;
+    width: 270px;
+    margin-left: 7px;
+}
+#lname{
+    text-align: center;
+    height: 30px;
+    border-radius: 30px;
+    width: 270px;
+    margin-left: 7px;
+}
+#user{
+    text-align: center;
+    height: 30px;
+    border-radius: 32px;
+    width: 270px;
+    margin-left: 10px;
+}
+#mail{
+    text-align: center;
+    height: 30px;
+    border-radius: 33px;
+    width: 270px;
+    margin-left: 37px;
+}
+#pass{
+    text-align: center;
+    height: 30px;
+    border-radius: 32px;
+    width: 270px;
+    margin-left: 14px;
+}
+#Male{
+    margin-left: 29px;
+}
+#read{
+    margin-left: 31px;
+}
+#state{
+    text-align: center;
+    height: 30px;
+    border-radius: 33px;
+    width: 270px;
+    margin-left: 40px;
+}
+#city{
+    text-align: center;
+    height: 30px;
+    border-radius: 33px;
+    width: 270px;
+    margin-left: 42px;
+}
+#car{
+    text-align: center;
+    height: 25px;
+    border-radius: 33px;
+    width: 270px;
+    margin-left: 4px;
+}
+.btn{
+    background-color: blue;
+    width: 30%;
+    
+    height: 6%;
+    border-radius: 30px;
+}
+#reset{
+    background-color: blue;
+    width: 30%;
+    height: 6%;
+    border-radius: 30px;
+    margin-left: 10px;
+}
+.last{
+    display: flex;
+    justify-content: center;
+    height: 75%;
+}
+#com{
+
+    height: 30px;
+    border-top-left-radius: 30px;
+    border-end-start-radius:30px ;
+    width: 270px;
+    margin-left: 6px;
+}
